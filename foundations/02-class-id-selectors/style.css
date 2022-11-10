@@ -1,0 +1,21 @@
+/*  style.css  */
+
+.odds {
+    background-color: rgb(255, 192, 203);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.cooler {
+    font-size: 24pt;
+}
+
+#number_2 {
+    color:#0000ff;
+    font-size: 36pt;
+}
+
+#number_4 {
+    background-color: hsl(113, 100%, 68%);
+    font-size: 24pt;
+    font-weight: bold;
+}
